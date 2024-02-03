@@ -1,0 +1,1 @@
+tagSearchIndex = [{"l":"Ejemplo simple de comentarios en JavaDoc","h":"class Circulo","d":"Section","u":"Circulo.html#ejemplo-simple-de-comentarios-en-javadoc-heading"}];updateSearchResults();
